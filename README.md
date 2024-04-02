@@ -22,7 +22,7 @@ This is the coding challenge for the position of either front end or full stack 
 - [Usage](#usage-back-end)
 - [Notes](#notes-back-end)
 
-### Installation {#installation-back-end}
+<h3 id="installation-back-end">Installation</h3>
 
 1. Clone this github repository onto your machine
 2. Install Docker onto your machine (get Docker [here](https://docs.docker.com/get-docker/))
@@ -41,7 +41,7 @@ This is the coding challenge for the position of either front end or full stack 
     - change port mapping if desired
 6. Access in web browser, Postman, or other application
 
-### Usage {#usage-back-end}
+<h3 id="usage-back-end">Usage</h3>
 
 Build and run the docker container using the installation instructions.
 
@@ -65,7 +65,7 @@ Each key has a _Time to Live_ (TTL) of 300s (5 minutes). Creating, updating and 
 Here is an example POST request using Postman:
 ![Screenshot of Postman application](Images/Screenshot - Back End POST.png)
 
-### Notes {#notes-back-end}
+<h3 id="notes-back-end">Notes</h3>
 
 [Original task](https://hackmd.io/@LagP9HgFSnK0trS0YWJFMg/rkUmu7mt6)
 
@@ -103,7 +103,7 @@ I followed the constraints as well as possible:
 - [Usage](#usage-full-stack)
 - [Notes](#notes-full-stack)
 
-### Installation {installation-full-stack}
+<h3 id="installation-full-stack">Installation</h3>
 
 1. Clone this github repository onto your machine
 2. Install Docker onto your machine (get Docker [here](https://docs.docker.com/get-docker/))
@@ -118,7 +118,7 @@ I followed the constraints as well as possible:
 4. Open a web browser and go to [http://localhost:3000](http://localhost:3000)
     - Note: the backend can be accessed through port 8000
 
-### Usage {#usage-full-stack}
+<h3 id="usage-full-stack">Usage</h3>
 
 Build and run the docker containers using the installation instructions.
 
@@ -129,7 +129,7 @@ There are 100 dealers stored in the database. They have randomly generated data 
 Here is a screenshot of the initial data fetch:
 ![Screenshot of React application](Images/Screenshot - Full Stack React.png)
 
-### Notes {#notes-full-stack}
+<h3 id="notes-full-stack">Notes</h3>
 
 [Original Task](https://hackmd.io/@snonF7mHR-mRvpnB8MljCg/ryjBYQC5T)
 
