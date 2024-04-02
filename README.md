@@ -63,7 +63,7 @@ Build and run the docker container using the installation instructions.
 Each key has a _Time to Live_ (TTL) of 300s (5 minutes). Creating, updating and retrieving will update the TTL of any key accessed.
 
 Here is an example POST request using Postman:
-![Screenshot of Postman application](Images/Screenshot - Back End POST.png)
+![Screenshot of Postman application](Images/Screenshot%20-%20Back%20End%20POST.png)
 
 <h3 id="notes-back-end">Notes</h3>
 
@@ -129,7 +129,7 @@ There are 100 dealers stored in the database. They have randomly generated data 
 **Filter** -> filter is implemented on the _city_ field of the Dealer model. Exact matches only, leave blank for all.
 
 Here is a screenshot of the initial data fetch:
-![Screenshot of React application](Images/Screenshot - Full Stack React.png)
+![Screenshot of React application](Images/Screenshot%20-%20Full%20Stack%20React.png)
 
 <h3 id="notes-full-stack">Notes</h3>
 
