@@ -123,7 +123,9 @@ I followed the constraints as well as possible:
 Build and run the docker containers using the installation instructions.
 
 There are 100 dealers stored in the database. They have randomly generated data for each field as outlined in the task. To access more data, scroll to the bottom of the screen and the next page of data will be appended (as long as it exists).
+
 **Search** -> search is implemented on the _name_ and *name_en* fields of the Dealer model. Partial mathes included, leave blank for all.
+
 **Filter** -> filter is implemented on the _city_ field of the Dealer model. Exact matches only, leave blank for all.
 
 Here is a screenshot of the initial data fetch:
